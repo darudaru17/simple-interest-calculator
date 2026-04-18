@@ -1,4 +1,4 @@
-# simple-interest-calculator
+
 # Simple Interest Calculator
 
 This project is a simple interest calculator.
